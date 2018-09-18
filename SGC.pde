@@ -1,6 +1,9 @@
 import processing.net.*; 
 import ddf.minim.*;
 
+// Stargate Command
+// created by D. Kopta
+
 // Modes
 int DIALING = 0;
 int RECEIVING = 1;

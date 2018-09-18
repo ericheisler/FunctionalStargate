@@ -1,6 +1,10 @@
 import processing.net.*; 
 import processing.serial.*;
 import ddf.minim.*;
+
+// Communicates with the stargate for dialing.
+// Created by D. Kopta
+
 Client myClient; 
 Serial serialPort;
 int dataIn; 
